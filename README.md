@@ -3,8 +3,8 @@
 This is my first project i have ever made build with only HTML 
 
  # there are the screenshotes of my webpage
-   [homepage](screenshot1.png)
-   [second page](screenshot2.png)
+   [homepage](all-pictures/screenshot1.png)
+   [second page](all-pictures/screenshot2.png)
 
 # This is the link of my webpage 
   [visit my webpage](https://ayush-kumar-singh014.github.io/first_project/) 
